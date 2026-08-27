@@ -56,7 +56,7 @@ data/DADOS_BASE_MENSAL_V75.RData
 
 Because of its size this file is distributed separately:
 
-- **Download:** <ADD LINK — Google Drive / OneDrive / Zenodo>
+- **Download:** <https://1drv.ms/u/c/d359c39f95362298/IQDUKPZXnc5AQ5tergZH0-fYAdflKMXL0Bq_OTCi0j-rWd4?e=SEO4Ls>
 - Place it in the `data/` directory before running the pipeline.
 
 ### Raw data sources
